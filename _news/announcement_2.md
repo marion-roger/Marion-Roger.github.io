@@ -1,32 +1,30 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Construction of the Ukrainian Carpathian Wedge from low-temperature thermochronology and tectono-stratigrephy analysis
+date: 2023-02-23 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Marion Roger*, Arjan de Leeuw*, Peter van der Beek°, Laurent Husson*, Edward R. Sobel°, Johannes Glodny", and Matthias Bernet* 
+*Institut des Sciences de la Terre (ISTerre), Université Grenoble Alpes, CNRS, IRD, 38000 Grenoble, France 
+°Institut für Geowissenschaften, Universität Potsdam, 14476 Potsdam, Germany 
+"GFZ German Research Centre for Geosciences, 14473 Potsdam, Germany 
+
+Correspondence: Marion Roger (marion.roger@univ-grenoble-alpes.fr) 
+Received: 24 August 2022 – Discussion started: 30 August 2022 Revised: 6 January 2023 – Accepted: 8 January 2023 – Published: 23 February 2023
 
 ***
+###Abstract
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The evolution of orogenic wedges can be determined through stratigraphic and thermochronological analysis. We used apatite fission-track (AFT) and apatite and zircon (U–Th–Sm) / He (AHe and ZHe) low-temperature thermochronology to assess the thermal evolution of the Ukrainian Carpathians, a prime example of an orogenic wedge forming in a retreating subduction zone setting. Whereas most of our AHe ages are reset by burial heating, 8 out of 10 of our AFT ages are partially reset, and none of the ZHe ages are reset. We inverse-modeled our thermochronology data to determine the time–temperature paths of six of the eight nappes composing the wedge. The models were integrated with burial diagrams derived from the stratigraphy of the individual nappes, which allowed us to distinguish sedimentary from tectonic burial. This analysis reveals that accretion of successive nappes and their subsequent exhumation mostly occurred sequentially, with an apparent increase in exhumation rate towards the external nappes. Following a phase of tectonic burial, the nappes were generally exhumed when a new nappe was accreted, whereas, in one case, duplexing resulted in prolonged burial. An early orogenic wedge formed with the accretion of the innermost nappe at 34 Ma, leading to an increase in sediment supply to the remnant basin. Most of the other nappes were accreted between 28 and 18 Ma. Modeled exhumation of the outermost nappe started at 12 Ma and was accompanied by out-ofsequence thrusting. The latter was linked to emplacement of the wedge onto the European platform and consequent slab detachment. The distribution of thermochronological ages across the wedge, showing non-reset ages in both the inner and outer part of the belt, suggests that the wedge was unable to reach dynamic equilibrium for a period long enough to fully reset all thermochronometers. Non-reset ZHe ages indicate that sediments in the inner part of the Carpathian embayment were mostly supplied by the Inner Carpathians, while sediments in the outer part of the basin were derived mostly from the Teisseyre–Tornquist Zone (TTZ) or the southwestern margin of the East European Platform. Our results suggest that during the accretionary phase, few sediments were recycled from the wedge to the foredeep. Most of the sediments derived from the Ukrainian Carpathian wedge were likely transported directly to the present pro- and retroforeland basins.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+ <a href="https://se.copernicus.org/articles/14/153/2023/">Access article</a> 
 
 ***
+Key words: Thermochronology, Wedge accretion, Exhumation, Stratigraphy
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+> This article is the result of a field campaign from 2019 in the Ukrainian Carpathian belt financed by the QUANTIFLUX ANR project (Arjan de Leeuw).
+> We thank our collaborator Anton Matoshko for his help on the field.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
