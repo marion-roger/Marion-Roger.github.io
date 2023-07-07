@@ -6,12 +6,14 @@ inline: false
 related_posts: false
 ---
 
-Marion Roger*, Arjan de Leeuw*, Peter van der Beek°, Laurent Husson*, Edward R. Sobel°, Johannes Glodny", and Matthias Bernet* 
-*Institut des Sciences de la Terre (ISTerre), Université Grenoble Alpes, CNRS, IRD, 38000 Grenoble, France 
-°Institut für Geowissenschaften, Universität Potsdam, 14476 Potsdam, Germany 
-"GFZ German Research Centre for Geosciences, 14473 Potsdam, Germany 
+> Marion Roger^1, Arjan de Leeuw^1, Peter van der Beek^2, Laurent Husson^1, Edward R. Sobel^2, Johannes Glodny^3, and Matthias Bernet^1 
+
+> ^1Institut des Sciences de la Terre (ISTerre), Université Grenoble Alpes, CNRS, IRD, 38000 Grenoble, France 
+> ^2Institut für Geowissenschaften, Universität Potsdam, 14476 Potsdam, Germany 
+> ^3GFZ German Research Centre for Geosciences, 14473 Potsdam, Germany 
 
 Correspondence: Marion Roger (marion.roger@univ-grenoble-alpes.fr) 
+
 Received: 24 August 2022 – Discussion started: 30 August 2022 Revised: 6 January 2023 – Accepted: 8 January 2023 – Published: 23 February 2023
 
 ***
