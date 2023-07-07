@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD. Geodynamics, Source-to-sink
+subtitle: PhD. Geodynamics
 
 profile:
-  align: left
+  align: rigth
   image: photo-profil-quali.jpg
   image_circular: false # crops the image to make it circular
   address: >
