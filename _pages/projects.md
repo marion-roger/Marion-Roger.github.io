@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: I try to link earth surface development with deep geodynamical processes.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: false
 horizontal: false
 ---
 
