@@ -7,6 +7,9 @@ nav_order: 2
 cv_pdf: CV-MarionRoger-eng.pdf
 ---
 
+📄  [My english C.V.](/assets/pdf/CV-MarionRoger-eng.pdf){:target="_blank"}
+📄  [My french C.V.](/assets/pdf/CV-MarionRoger.pdf){:target="_blank"}
+
 
 ### Research Experiences
 `Nov. 2022 - Oct. 2023`. Postdoctoral Research Associate in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
