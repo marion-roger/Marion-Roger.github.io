@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: CV-MarionRoger.pdf
+cv_pdf: CV-MarionRoger-eng.pdf
 ---
 
 
