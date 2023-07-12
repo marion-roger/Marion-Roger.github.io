@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: I try to link earth surface development with deep geodynamical processes.
 nav: true
