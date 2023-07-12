@@ -5,7 +5,7 @@ permalink: /
 subtitle: <b>PhD. Geodynamics<b/>
 
 profile:
-  align: left
+  align: right
   image: photo-profil.png
   image_circular: false # crops the image to make it circular
   address: >
