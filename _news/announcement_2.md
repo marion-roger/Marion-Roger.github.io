@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Construction of the Ukrainian Carpathian Wedge from low-temperature thermochronology and tectono-stratigrephy analysis
+title: New article out! "Construction of the Ukrainian Carpathian Wedge from low-temperature thermochronology and tectono-stratigrephy analysis"
 date: 2023-02-23 16:11:00-0400
 inline: false
 related_posts: false
