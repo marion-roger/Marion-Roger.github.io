@@ -7,16 +7,26 @@ nav: true
 nav_order: 4
 ---
 
-•	2020-2023 : Teaching of sedimentology and associated fieldwork. (~30h/year) : Introduction to sedimentary rocks (detrital and carbonate) and sedimentary systems (detrital and carbonate) for Licence 3 students in Earth Sciences. Assistance to Licence 3 students on a 2-day field trip (Vercors, Alps).
-<br> 
-Teaching unit directors: Matthias Bernet and Arjan de Leeuw
+<h1>Teaching experiences</h1>
 
-•	2019 : Teaching assistant, South Dakota School of Mines and Technology, (1mois): Geology and Alpine tectonics field camp in the French Alps. Sites of Dignes-les-bains and Argentière-la-Bessée.
-<ul> 
-  <li>o	Teaching of field geology to American students</li> 
-  <li>o	Evaluation of field notes of student</li>
-  <li>o	Helping during student’s assignments</li>
+#### _`2020-2023`: Teaching of sedimentology and associated fieldwork. <b>(~30h/year)</b>_
+Introduction to sedimentary rocks (detrital and carbonate) and sedimentary systems (detrital and carbonate) for Licence 3 students in Earth Sciences. Assistance to Licence 3 students on a 2-day field trip (Vercors, Alps).<br>
+#### _`2019`: Teaching assistant, International filed course, The Carpathian Belt and Basin, <b>(2 weeks) </b>_
+International field coruse of the University Grenoble Alpes and the University of Bucharest fo Master 2 students
+<ul>
+  <li>Teaching field geology</li>
+  <li>Lecture on contact-metamorphism and fractional crytalization </li>
 </ul>
-<br> 
-Director of field camp: Yann Gavillot, Dr. Nuri Uzunlar, Jérôme Nomade.
 
+_Director of field course: Arjan de Leeuw, Peter vand der Beek, Marius Stoica_
+
+#### _`2019`: Teaching assistant, South Dakota School of Mines and Technology, <b>(1 month) </b>_
+Geology and Alpine tectonics field camp in the French Alps. Sites of Dignes-les-bains and Argentière-la-Bessée.
+
+<ul>
+  <li>Teaching of field geology to American students</li>
+  <li>Evaluation of field notes of student</li>
+  <li>Helping during student’s assignments</li>
+</ul>
+
+_Director of field camp: Yann Gavillot, Dr. Nuri Uzunlar, Jérôme Nomade_
