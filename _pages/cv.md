@@ -7,39 +7,84 @@ nav_order: 2
 cv_pdf: CV-MarionRoger-eng.pdf
 ---
 
-📄  [My english C.V.](/assets/pdf/CV-MarionRoger-eng.pdf){:target="_blank"}
-📄  [My french C.V.](/assets/pdf/CV-MarionRoger.pdf){:target="_blank"}
+📄  [My english C.V.](/assets/pdf/CV-MarionRoger-2023-EN.pdf){:target="_blank"}
 
 
-### Research Experiences
-`Nov. 2022 - Oct. 2023`. Postdoctoral Research Associate in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
+<h1>Research Experiences</h1> 
+   
+ #### _`2019-2023` P.h.D in Geodynamics,in Université Grenoble Alpes, on a ministerial grant – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 
+<h3> Quantification of sediment fluxes in the Carpathian foreland basin from the collision to slab detachment.</h3>
+<p></p><i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes), Laurent Husson (DR CNRS).<br></i></p>
 
-- Project [2 years] :  Orbital variations, ocean biogeochemistry and continental weathering.
-(_project PI : Dr. Yannick Donnadieu)_
+<small>Quantification of exhumation:<ul>
+  <li>Compilation of existing LT thermochronology data.</li>
+  <li>Analysis and dating of samples from Ukraine with AFT, AHe and ZHe methods.</li>
+  <li>Inversion of database with Pecube program.</li>
+</ul>
+Quantification of sediment volumes:<ul>
+  <li>Understanding the spatial distribution of sediment volumes</li>
+  <li>Construction of isopach maps by stratigraphic age.</li>
+  <li>Correlation of the sediment volumes with the foreland plate structure and rheology.  </li>
+</ul>
+Subducted slab dynamics in retreating zones:<ul>
+  <li>Correlation of belt exhumation and retreat and lateral tear of the slab</li>
+  <li>Correlation of slab lateral tear and detachment and distribution of sediments in the foreland  </li>
+</ul></small>
+<h4>Resaerch skills:</h4> Thermocrhonology (AFT, AHe, ZHe), Inverse modeling, Meta analysis of geological data, Basin modeling
+<h4>Scientific field:</h4> Source-to-sink analysis, Exhumation model, Foreland basin development, Sediment fluxes tracking
+<br>
+<br>
 
-_Paleoclimate modeling. Ocean biogeochemistry modeling. Continental weathering modeling_
+ #### _`2019`  Research internship <b>(6 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
+<h3>Construction of a thermochronological database of the Carpathian belt and erosion quantification.</h3>
+<p></p><i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes).<br></i></p>
+<ul>
+  <li>Compiling data and understanding the structure of the Carpathian chain</li>
+  <li>Data inversion using a GLIDE program
+</ul>
+<h4>Resaerch skills:</h4> Use of inverse modelling, data compilation, analysis of low-temperature thermochronology ages
+<h4>Scientific field:</h4> Tectonics, Thermochronology, Inverse modelling
+<br>
+<br>
 
-`Sep. 2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -  Grenoble, France) and LSCE (Paris, France)
+ #### _`2018`  Research internship <b>(3 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
+<h3>Stratigraphy of the Mollasse Rouge d'Esparron-la-Bâtie (Southern Alps, France).</h3>
+<ul>
+  <li>Mapping of the sedimentary sequence of the Mollasse Rouge outcrop at the Esparron-la-Bâtie site  </li>
+  <li>Analysis of sedimentary facies and outcrop lateral variation  </li>
+  <li>Facies association and construction of an evolution of the environments of deposition  </li>
+</ul>
+<h4>Scientific field:</h4> Sedimentology and Pedology
+<br>
+<br>
 
-- Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation. Supervisors : Dr. Laurent Husson (ISTerre) & Dr. Pierre Sepulchre (LSCE)
-
-_Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling. Geomorphology._
-
+ #### _`2017`  Research internship <b>(1 months)</b> – at Chrono-environnement Laboratory (Besançon, France):_
+<h3>Opening of the Southern Ocean, integration of extensive fault data from the Antarctic margin (Dumont d'Urville).</h3>
+<ul>
+  <li>Scientific watch on the numerous fault data from the Southern Ocean margins  </li>
+  <li>Integration of Antarctic margin data on the Dumont d'Urville site  </li>
+</ul>
+<br>
+<br>
 <p>&nbsp;</p>
 
-### Fellowships & Grants
--  `2023`__BQR research project__ (Internal call ISTerre lab.) [2.8k€ - PI]
 
-_> 9 millions computing hours on Irene supercomputer from TGCC HPC facilities (GENCI - CEA) (2017, 2019, 2020, 2021, 2022 hours attribution - Project PI: P. Sepulchre, LSCE)_
 
+<h1>Teaching experiences</h1>
+
+#### _`2020-2023`: Teaching of sedimentology and associated fieldwork. <b>(~30h/year)</b>_
+Introduction to sedimentary rocks (detrital and carbonate) and sedimentary systems (detrital and carbonate) for Licence 3 students in Earth Sciences. Assistance to Licence 3 students on a 2-day field trip (Vercors, Alps).<br>
+#### _`2019`: Teaching assistant, South Dakota School of Mines and Technology, <b>(1 month) </b>_
+Geology and Alpine tectonics field camp in the French Alps. Sites of Dignes-les-bains and Argentière-la-Bessée.
+
+<ul>
+  <li>Teaching of field geology to American students</li>
+  <li>Evaluation of field notes of student</li>
+  <li>Helping during student’s assignments</li>
+</ul>
+
+_Director of field camp: Yann Gavillot, Dr. Nuri Uzunlar, Jérôme Nomade_
+  
 <p>&nbsp;</p>
 
-### Education
-
-- `2018` Ph.D Earth Sciences, Grenoble Alpes University, France
-
-
-<p>&nbsp;</p>
-
-### Supervision
