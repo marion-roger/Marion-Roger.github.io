@@ -39,10 +39,11 @@ cv_pdf: CV-MarionRoger-eng.pdf
   <li>Correlation of slab lateral tear and detachment and distribution of sediments in the foreland </li>
 </small></ul> 
   
-<h4>Resaerch skills:</h4> 
+<p><h4>Resaerch skills:</h4> 
 Thermocrhonology (AFT, AHe, ZHe), Inverse modeling, Meta analysis of geological data, Basin modeling
 <h4>Scientific field:</h4> 
 Source-to-sink analysis, Exhumation model, Foreland basin development, Sediment fluxes tracking
+</p>
 <br>
 <br>
 
