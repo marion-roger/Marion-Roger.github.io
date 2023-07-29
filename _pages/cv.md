@@ -12,7 +12,7 @@ cv_pdf: CV-MarionRoger-eng.pdf
 
 <h1>Research Experiences</h1> 
 <br>
-   
+#### _`2019`: Teaching assistant, International filed course, The Carpathian Belt and Basin, <b>(2 weeks) </b>_   
 _`2019-2023` P.h.D in Geodynamics,in Université Grenoble Alpes, on a ministerial grant – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 
 <h3> Quantification of sediment fluxes in the Carpathian foreland basin from the collision to slab detachment.</h3>
