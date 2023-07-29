@@ -1,9 +1,9 @@
 ---
-layout: smallfont_page
-permalink: /communications/
-title: Communications
-description: 
-nav: true
+layout: page
+permalink: /blog/
+title: blog
+nav: false
+nav_order: 2
 ---
 <p>&nbsp;</p>
 
