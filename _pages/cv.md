@@ -15,31 +15,31 @@ cv_pdf: CV-MarionRoger-eng.pdf
  _`2019-2023` P.h.D in Geodynamics,in Université Grenoble Alpes, on a ministerial grant – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 
 <h3> Quantification of sediment fluxes in the Carpathian foreland basin from the collision to slab detachment.</h3>
-<i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes), Laurent Husson (DR CNRS).<br></i>
+<i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes), Laurent Husson (DR CNRS).</i>
 
-Quantification of exhumation:
-<ul>
-  <li><small>Compilation of existing LT thermochronology data.</li></small>
-  <li><small>Analysis and dating of samples from Ukraine with AFT, AHe and ZHe methods.</li></small>
-  <li><small>Inversion of database with Pecube program.</li></small>
-</ul><br>
-Quantification of sediment volumes:
+<br>Quantification of exhumation:
+<small><ul>
+  <li>Compilation of existing LT thermochronology data.</li>
+  <li>Analysis and dating of samples from Ukraine with AFT, AHe and ZHe methods.</li>
+  <li>Inversion of database with Pecube program.</li></ul></small>
+
+<br>Quantification of sediment volumes:
 <ul>
   <li><small>Understanding the spatial distribution of sediment volumes</li></small>
   <li><small>Construction of isopach maps by stratigraphic age.</li></small>
-  <li><small>Correlation of the sediment volumes with the foreland plate structure and rheology.  </li></small>
-</ul><br>
-Subducted slab dynamics in retreating zones:
-<ul>
-  <li><small>Correlation of belt exhumation and retreat and lateral tear of the slab</li></small>
-  <li><small>Correlation of slab lateral tear and detachment and distribution of sediments in the foreland  </small></li>
-</ul><br>
-<h4>Resaerch skills:</h4> Thermocrhonology (AFT, AHe, ZHe), Inverse modeling, Meta analysis of geological data, Basin modeling
+  <li><small>Correlation of the sediment volumes with the foreland plate structure and rheology.  </li></small></ul>
+
+<br>Subducted slab dynamics in retreating zones:
+<small><ul>
+  <li>Correlation of belt exhumation and retreat and lateral tear of the slab</li>
+  <li>Correlation of slab lateral tear and detachment and distribution of sediments in the foreland </li></ul> </small>
+  
+<br><h4>Resaerch skills:</h4> Thermocrhonology (AFT, AHe, ZHe), Inverse modeling, Meta analysis of geological data, Basin modeling
 <h4>Scientific field:</h4> Source-to-sink analysis, Exhumation model, Foreland basin development, Sediment fluxes tracking
 <br>
 <br>
 
- #### _`2019`  Research internship <b>(6 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
+ _`2019`  Research internship <b>(6 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 <h3>Construction of a thermochronological database of the Carpathian belt and erosion quantification.</h3>
 <p></p><i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes).<br></i></p>
 <ul>
@@ -51,7 +51,7 @@ Subducted slab dynamics in retreating zones:
 <br>
 <br>
 
- #### _`2018`  Research internship <b>(3 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
+  _`2018`  Research internship <b>(3 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 <h3>Stratigraphy of the Mollasse Rouge d'Esparron-la-Bâtie (Southern Alps, France).</h3>
 <ul>
   <li>Mapping of the sedimentary sequence of the Mollasse Rouge outcrop at the Esparron-la-Bâtie site  </li>
@@ -62,7 +62,7 @@ Subducted slab dynamics in retreating zones:
 <br>
 <br>
 
- #### _`2017`  Research internship <b>(1 months)</b> – at Chrono-environnement Laboratory (Besançon, France):_
+  _`2017`  Research internship <b>(1 months)</b> – at Chrono-environnement Laboratory (Besançon, France):_
 <h3>Opening of the Southern Ocean, integration of extensive fault data from the Antarctic margin (Dumont d'Urville).</h3>
 <ul>
   <li>Scientific watch on the numerous fault data from the Southern Ocean margins  </li>
@@ -72,20 +72,6 @@ Subducted slab dynamics in retreating zones:
 <br>
 <p>&nbsp;</p>
 
-
-
-<h1>Teaching experiences</h1>
-
-#### _`2020-2023`: Teaching of sedimentology and associated fieldwork. <b>(~30h/year)</b>_
-Introduction to sedimentary rocks (detrital and carbonate) and sedimentary systems (detrital and carbonate) for Licence 3 students in Earth Sciences. Assistance to Licence 3 students on a 2-day field trip (Vercors, Alps).<br>
-#### _`2019`: Teaching assistant, South Dakota School of Mines and Technology, <b>(1 month) </b>_
-Geology and Alpine tectonics field camp in the French Alps. Sites of Dignes-les-bains and Argentière-la-Bessée.
-
-<ul>
-  <li>Teaching of field geology to American students</li>
-  <li>Evaluation of field notes of student</li>
-  <li>Helping during student’s assignments</li>
-</ul>
 
 _Director of field camp: Yann Gavillot, Dr. Nuri Uzunlar, Jérôme Nomade_
   
