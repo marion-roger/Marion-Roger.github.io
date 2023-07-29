@@ -12,25 +12,28 @@ cv_pdf: CV-MarionRoger-eng.pdf
 
 <h1>Research Experiences</h1> 
    
- #### _`2019-2023` P.h.D in Geodynamics,in Université Grenoble Alpes, on a ministerial grant – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
+ _`2019-2023` P.h.D in Geodynamics,in Université Grenoble Alpes, on a ministerial grant – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 
 <h3> Quantification of sediment fluxes in the Carpathian foreland basin from the collision to slab detachment.</h3>
-<p></p><i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes), Laurent Husson (DR CNRS).<br></i></p>
+<i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes), Laurent Husson (DR CNRS).<br></i>
 
-<small>Quantification of exhumation:<ul>
-  <li>Compilation of existing LT thermochronology data.</li>
-  <li>Analysis and dating of samples from Ukraine with AFT, AHe and ZHe methods.</li>
-  <li>Inversion of database with Pecube program.</li>
-</ul>
-Quantification of sediment volumes:<ul>
-  <li>Understanding the spatial distribution of sediment volumes</li>
-  <li>Construction of isopach maps by stratigraphic age.</li>
-  <li>Correlation of the sediment volumes with the foreland plate structure and rheology.  </li>
-</ul>
-Subducted slab dynamics in retreating zones:<ul>
-  <li>Correlation of belt exhumation and retreat and lateral tear of the slab</li>
-  <li>Correlation of slab lateral tear and detachment and distribution of sediments in the foreland  </li>
-</ul></small>
+Quantification of exhumation:
+<ul>
+  <li><small>Compilation of existing LT thermochronology data.</li></small>
+  <li><small>Analysis and dating of samples from Ukraine with AFT, AHe and ZHe methods.</li></small>
+  <li><small>Inversion of database with Pecube program.</li></small>
+</ul><br>
+Quantification of sediment volumes:
+<ul>
+  <li><small>Understanding the spatial distribution of sediment volumes</li></small>
+  <li><small>Construction of isopach maps by stratigraphic age.</li></small>
+  <li><small>Correlation of the sediment volumes with the foreland plate structure and rheology.  </li></small>
+</ul><br>
+Subducted slab dynamics in retreating zones:
+<ul>
+  <li><small>Correlation of belt exhumation and retreat and lateral tear of the slab</li></small>
+  <li><small>Correlation of slab lateral tear and detachment and distribution of sediments in the foreland  </small></li>
+</ul><br>
 <h4>Resaerch skills:</h4> Thermocrhonology (AFT, AHe, ZHe), Inverse modeling, Meta analysis of geological data, Basin modeling
 <h4>Scientific field:</h4> Source-to-sink analysis, Exhumation model, Foreland basin development, Sediment fluxes tracking
 <br>
