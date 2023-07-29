@@ -12,8 +12,7 @@ cv_pdf: CV-MarionRoger-eng.pdf
 
 <h1>Research Experiences</h1> 
 <br>
-#### _`2019`: Teaching assistant, International filed course, The Carpathian Belt and Basin, <b>(2 weeks) </b>_   
-_`2019-2023` P.h.D in Geodynamics,in Université Grenoble Alpes, on a ministerial grant – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
+#### _`2019-2023` P.h.D in Geodynamics,in Université Grenoble Alpes, on a ministerial grant – at Institut des Sciences de la Terre (ISTerre - Grenoble, France) :_   
 
 <h3> Quantification of sediment fluxes in the Carpathian foreland basin from the collision to slab detachment.</h3>
 <i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes), Laurent Husson (DR CNRS).</i>
@@ -47,7 +46,7 @@ Source-to-sink analysis, Exhumation model, Foreland basin development, Sediment 
 <br>
 
 
-_`2019`  Research internship <b>(6 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
+#### _`2019` Research internship <b>(6 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 <h3>Construction of a thermochronological database of the Carpathian belt and erosion quantification.</h3>
 <i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes).</i>
 <br><ul>
@@ -64,7 +63,7 @@ _`2019`  Research internship <b>(6 months)</b> – at Institut des Sciences de l
 
 
 
-_`2018`  Research internship <b>(3 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
+#### _`2018` Research internship <b>(3 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 <h3>Stratigraphy of the Mollasse Rouge d'Esparron-la-Bâtie (Southern Alps, France).</h3>
 <br><ul>
   <li>Mapping of the sedimentary sequence of the Mollasse Rouge outcrop at the Esparron-la-Bâtie site  </li>
@@ -79,7 +78,7 @@ Sedimentology and Pedology
 <br>
 
 
-_`2017`  Research internship <b>(1 months)</b> – at Chrono-environnement Laboratory (Besançon, France):_
+#### _`2017` Research internship <b>(1 months)</b> – at Chrono-environnement Laboratory (Besançon, France):_
 <h3>Opening of the Southern Ocean, integration of extensive fault data from the Antarctic margin (Dumont d'Urville).</h3>
 <br><ul>
   <li>Scientific watch on the numerous fault data from the Southern Ocean margins  </li>
