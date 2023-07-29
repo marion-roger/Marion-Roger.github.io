@@ -44,14 +44,13 @@ Source-to-sink analysis, Exhumation model, Foreland basin development, Sediment 
 </p>
 <br>
 <br>
-
-
 #### _`2019` Research internship <b>(6 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 <h3>Construction of a thermochronological database of the Carpathian belt and erosion quantification.</h3>
 <i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes).</i>
-<br><ul>
+<br>
+<ul>
   <li>Compiling data and understanding the structure of the Carpathian chain</li>
-  <li>Data inversion using a GLIDE program
+  <li>Data inversion using a GLIDE program</li>
 </ul>
 <br>
 <p><h4>Resaerch skills:</h4> Use of inverse modelling, data compilation, analysis of low-temperature thermochronology ages
@@ -60,9 +59,6 @@ Source-to-sink analysis, Exhumation model, Foreland basin development, Sediment 
 </p>
 <br>
 <br>
-
-
-
 #### _`2018` Research internship <b>(3 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 <h3>Stratigraphy of the Mollasse Rouge d'Esparron-la-Bâtie (Southern Alps, France).</h3>
 <br><ul>
@@ -76,8 +72,6 @@ Sedimentology and Pedology
 </p>
 <br>
 <br>
-
-
 #### _`2017` Research internship <b>(1 months)</b> – at Chrono-environnement Laboratory (Besançon, France):_
 <h3>Opening of the Southern Ocean, integration of extensive fault data from the Antarctic margin (Dumont d'Urville).</h3>
 <br><ul>
