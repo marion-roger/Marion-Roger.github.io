@@ -17,38 +17,40 @@ cv_pdf: CV-MarionRoger-eng.pdf
 <h3> Quantification of sediment fluxes in the Carpathian foreland basin from the collision to slab detachment.</h3>
 <i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes), Laurent Husson (DR CNRS).</i>
 
-<br>Quantification of exhumation:
+<br><p><small>Quantification of exhumation:
 <ul>
-  <li><small>Compilation of existing LT thermochronology data.</li>
-  <li><small>Analysis and dating of samples from Ukraine with AFT, AHe and ZHe methods.</li>
-  <li><small>Inversion of database with Pecube program.</li>
-</ul>
+  <li>Compilation of existing LT thermochronology data.</li>
+  <li>Analysis and dating of samples from Ukraine with AFT, AHe and ZHe methods.</li>
+  <li>Inversion of database with Pecube program.</li>
+</ul></p>
 
-<br>Quantification of sediment volumes:
+<br><p>Quantification of sediment volumes:
 <ul>
-  <li><small>Understanding the spatial distribution of sediment volumes</li>
-  <li><small>Construction of isopach maps by stratigraphic age.</li>
-  <li><small>Correlation of the sediment volumes with the foreland plate structure and rheology.  </li>
-</ul>
+  <li>Understanding the spatial distribution of sediment volumes</li>
+  <li>Construction of isopach maps by stratigraphic age.</li>
+  <li>Correlation of the sediment volumes with the foreland plate structure and rheology.  </li>
+</ul></p>
 
-<br>Subducted slab dynamics in retreating zones:
+<br><p>Subducted slab dynamics in retreating zones:
 <ul>
-  <li><small>Correlation of belt exhumation and retreat and lateral tear of the slab</li>
-  <li><small>Correlation of slab lateral tear and detachment and distribution of sediments in the foreland </li>
-</ul> 
+  <li>Correlation of belt exhumation and retreat and lateral tear of the slab</li>
+  <li>Correlation of slab lateral tear and detachment and distribution of sediments in the foreland </li>
+</ul> </p></small>
   
-<br><h4>Resaerch skills:</h4> Thermocrhonology (AFT, AHe, ZHe), Inverse modeling, Meta analysis of geological data, Basin modeling
-<br><h4>Scientific field:</h4> Source-to-sink analysis, Exhumation model, Foreland basin development, Sediment fluxes tracking
+<h4>Resaerch skills:</h4> 
+Thermocrhonology (AFT, AHe, ZHe), Inverse modeling, Meta analysis of geological data, Basin modeling
+<h4>Scientific field:</h4> 
+Source-to-sink analysis, Exhumation model, Foreland basin development, Sediment fluxes tracking
 <br>
 <br>
 
  _`2019`  Research internship <b>(6 months)</b> – at Institut des Sciences de la Terre (ISTerre - Grenoble, France):_
 <h3>Construction of a thermochronological database of the Carpathian belt and erosion quantification.</h3>
-<p></p><i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes).</i></p>
-<br><small><ul>
+<i>Project supervision:  Peter van der Beek (U. of Potsdam), Arjan de Leeuw (U. of Grenoble Alpes).</i>
+<ul>
   <li>Compiling data and understanding the structure of the Carpathian chain</li>
   <li>Data inversion using a GLIDE program
-</ul></small>
+</ul>
 <br><h4>Resaerch skills:</h4> Use of inverse modelling, data compilation, analysis of low-temperature thermochronology ages
 <br><h4>Scientific field:</h4> Tectonics, Thermochronology, Inverse modelling
 <br>
@@ -61,7 +63,8 @@ cv_pdf: CV-MarionRoger-eng.pdf
   <li>Analysis of sedimentary facies and outcrop lateral variation  </li>
   <li>Facies association and construction of an evolution of the environments of deposition  </li>
 </ul>
-<h4>Scientific field:</h4> Sedimentology and Pedology
+<h4>Scientific field:</h4> 
+Sedimentology and Pedology
 <br>
 <br>
 
@@ -73,10 +76,4 @@ cv_pdf: CV-MarionRoger-eng.pdf
 </ul>
 <br>
 <br>
-<p>&nbsp;</p>
-
-
-_Director of field camp: Yann Gavillot, Dr. Nuri Uzunlar, Jérôme Nomade_
-  
-<p>&nbsp;</p>
 
