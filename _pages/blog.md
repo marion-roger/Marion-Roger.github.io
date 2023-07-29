@@ -3,7 +3,7 @@ layout: page
 permalink: /blog/
 title: blog
 nav: false
-nav_order: 0
+nav_order: 5
 ---
 <p>&nbsp;</p>
 
