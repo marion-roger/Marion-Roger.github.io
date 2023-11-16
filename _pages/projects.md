@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: I try to link earth surface development with deep geodynamical processes.
+description: I try to link Earth surface development with deep geodynamical processes.
 nav: true
 nav_order: 3
 display_categories: false
