@@ -24,17 +24,19 @@ I'll be walking you through the key aspects of my thesis project undertaken betw
     </div>
 </div>
 <div class="caption">
-    On the left, the tectonic map of the Alpine orogeny in Europe,source: @Wikimedia communs "Geological and Morpho-tectonic map of the Mediterranean domain CCGM, 2012"
-    Middle, method used for the source-to-sink analysis, quantification of exhumation and related erosion and sediment volumes in the foreland basin. 
+    On the left, the tectonic map of the Alpine orogeny in Europe,source: @Wikimedia communs "Geological and Morpho-tectonic map of the Mediterranean domain CCGM, 2012". <br>
+    Middle, method used for the source-to-sink analysis, quantification of exhumation and related erosion and sediment volumes in the foreland basin. <br>
     Right, distribution of sediment fluxes from erosion of the belt.
 </div>
 
 My project implicated the aspect of quantyfing sediments from the Carpathian systeme,i.e., the sediment eroded from the belt and the sediment preserved in the foreland basin.
-The project divided itself into three sub-objectivies: 
-    - retrace the exhumation history of the Carpathian fold-and-thrust belt
-    - quantifying sediment volumes in the foreland basin per stratigraphic unit
-    - draw a volumetric and source-to-sink analysis of the system, and relate it to its geological context
-
+The project divided itself into three sub-objectivies:
+<ul>
+    <li>- retrace the exhumation history of the Carpathian fold-and-thrust belt</li>
+    <li>- quantifying sediment volumes in the foreland basin per stratigraphic unit</li>
+    <li>- draw a volumetric and source-to-sink analysis of the system, and relate it to its geological context</li>
+</ul>
+    
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
