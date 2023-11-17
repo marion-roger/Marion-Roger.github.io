@@ -17,20 +17,15 @@ I'll be walking you through the key aspects of my thesis project undertaken betw
         {% include figure.html path="assets/img/Sans titre - 3.png" title="The Carpathian belt and foreland basin in Europe: tectonic map of the Alpin orogeny" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Carp-system-sed-foreland-BS.jpg" title="Tracing sediment exhumation and deposition centers" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/divisionsedexhumed.png" title="Construction of source-to-sink: sketch of distribution of sediments" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     On the left, the tectonic map of the Alpine orogeny in Europe,source: @Wikimedia communs "Geological and Morpho-tectonic map of the Mediterranean domain CCGM, 2012". <br>
-    Middle, method used for the source-to-sink analysis, quantification of exhumation and related erosion and sediment volumes in the foreland basin. <br>
     Right, distribution of sediment fluxes from erosion of the belt.
 </div>
 
-My project implicated the aspect of quantyfing sediments from the Carpathian systeme,i.e., the sediment eroded from the belt and the sediment preserved in the foreland basin.
-The project divided itself into three sub-objectivies:
+My project revolved around quantifying sediment pathways within the Carpathian system—both eroded from the belt and preserved in the foreland basin. This undertaking was structured into three key sub-objectives:
 <ul>
     <li>- retrace the exhumation history of the Carpathian fold-and-thrust belt</li>
     <li>- quantifying sediment volumes in the foreland basin per stratigraphic unit</li>
@@ -44,12 +39,11 @@ The project divided itself into three sub-objectivies:
     </div>
 </div>
 <div class="caption">
-    The first step requiered a completion of the low-temperature thermocrhonology database I built for the Carpathian belt. We went to the Ukrainian Carpathian and sampled for ZHe, AFT, and AHe dating.
-    The results of this campaigne are available in my article here:  <a href="https://se.copernicus.org/articles/14/153/2023/">Access article</a>
+    The initial phase involved compiling a comprehensive low-temperature thermochronology database specifically for the Carpathian belt. We conducted fieldwork in the Ukrainian Carpathians, collecting samples for ZHe, AFT, and AHe dating.
+The outcomes of this expedition are detailed in my article available here:  <a href="https://se.copernicus.org/articles/14/153/2023/">Access article</a>
 </div>
 
-The other steps of this project have yet to be published, therefore the following images are from the field campagne in Ukraine, a very beautifull place.
-
+The subsequent phases of this project are currently unpublished. Thus, the following images showcase our field campaign in Ukraine, a stunning location.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -60,7 +54,7 @@ The other steps of this project have yet to be published, therefore the followin
     </div>
 </div>
 <div class="caption">
-    On the left, the frontal thrust of the Carpathian belt (in Romania)
+    On the left, the frontal thrust of the Carpathian belt (in Romania). <br>
     On the right, a waterfall in the Ukrainian Carpathian
 </div>
 
