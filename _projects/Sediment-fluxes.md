@@ -2,71 +2,66 @@
 layout: page
 title: Sediment fluxes in the Carpathian system
 description: PhD. project 2019-2023
-img: assets/img/synthèse-fluxes.png
+img: assets/img/paysage.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The Carpathian Belt and Foreland Basin, shaped by the retreat of the European slab in the Neogene era, stand out in the context of the Alpine orogeny. These regions offer an exclusive research landscape unaffected by other active geological features, providing a unique opportunity for in-depth sediment analysis and volumetric study.
+
+I'll be walking you through the key aspects of my thesis project undertaken between 2019 and 2023, focused on exploring the geological intricacies of these areas.
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Sans titre - 3.png" title="The Carpathian belt and foreland basin in Europe: tectonic map of the Alpin orogeny" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Carp-system-sed-foreland-BS.jpg" title="Tracing sediment exhumation and deposition centers" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/divisionsedexhumed.png" title="Construction of source-to-sink: sketch of distribution of sediments" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, the tectonic map of the Alpine orogeny in Europe,source: @Wikimedia communs "Geological and Morpho-tectonic map of the Mediterranean domain CCGM, 2012"
+    Middle, method used for the source-to-sink analysis, quantification of exhumation and related erosion and sediment volumes in the foreland basin. 
+    Right, distribution of sediment fluxes from erosion of the belt.
 </div>
+
+My project implicated the aspect of quantyfing sediments from the Carpathian systeme,i.e., the sediment eroded from the belt and the sediment preserved in the foreland basin.
+The project divided itself into three sub-objectivies: 
+    - retrace the exhumation history of the Carpathian fold-and-thrust belt
+    - quantifying sediment volumes in the foreland basin per stratigraphic unit
+    - draw a volumetric and source-to-sink analysis of the system, and relate it to its geological context
+
+ 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fig1_UKRarticle.png" title="Figure 1, Roger et al., 2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The first step requiered a completion of the low-temperature thermocrhonology database I built for the Carpathian belt. We went to the Ukrainian Carpathian and sampled for ZHe, AFT, and AHe dating.
+    The results of this campaigne are available in my article here:  <a href="https://se.copernicus.org/articles/14/153/2023/">Access article</a>
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The other steps of this project have yet to be published, therefore the following images are from the field campagne in Ukraine, a very beautifull place.
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/82377444_783365515519180_5913938287466119168_n.jpg" title="The frontal thrust" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/82901509_159299465372256_6942384716347604992_n.jpg" title="Waterfall, carying sediments ?" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    On the left, the frontal thrust of the Carpathian belt (in Romania)
+    On the right, a waterfall in the Ukrainian Carpathian
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+
