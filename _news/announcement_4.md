@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Article in progress about an exhumation model of the Carpathian... to be continued ⛰️
+Article in progress about an exhumation model of the Carpathian Belt... to be continued ⛰️
